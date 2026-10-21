@@ -1,0 +1,6 @@
+# Este repositório só guarda o catálogo (marketplace).
+# Cada plugin vive na sua subpasta com o seu próprio repositório git.
+/*
+!/.claude-plugin/
+!/.gitignore
+!/README.md

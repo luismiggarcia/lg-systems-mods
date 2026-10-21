@@ -1,0 +1,17 @@
+{
+  "name": "lg-systems-mods",
+  "owner": {
+    "name": "LG-Systems"
+  },
+  "description": "Mods da LG-Systems para o Claude Code",
+  "plugins": [
+    {
+      "name": "usage-bars",
+      "source": {
+        "source": "github",
+        "repo": "luismiggarcia/claude-usage-bars"
+      },
+      "description": "Context, cache, 5-hour session and weekly usage meters above the prompt"
+    }
+  ]
+}
