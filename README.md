@@ -48,3 +48,7 @@ Abre uma issue no repositório do plugin: [claude-usage-bars/issues](https://git
 1. Criar o plugin numa subpasta (`<nome>/`) com o seu próprio repositório git.
 2. Acrescentar uma entrada em `.claude-plugin/marketplace.json` com `"source": { "source": "github", "repo": "luismiggarcia/<repo>" }`.
 3. Commit e push deste repositório; acrescentar o plugin à tabela acima.
+
+## Autoria
+
+Autor único: Luis Garcia (LG-Systems). Ver [AUTHORS.md](AUTHORS.md) sobre como ler as linhas `Co-Authored-By: Claude` do histórico de commits.
