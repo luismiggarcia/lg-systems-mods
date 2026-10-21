@@ -51,4 +51,4 @@ Abre uma issue no repositório do plugin: [claude-usage-bars/issues](https://git
 
 ## Autoria
 
-Autor único: Luis Garcia (LG-Systems). Ver [AUTHORS.md](AUTHORS.md) sobre como ler as linhas `Co-Authored-By: Claude` do histórico de commits.
+Autor único: Luis Garcia (LG-Systems). Ver [AUTHORS.md](AUTHORS.md) sobre como ler as linhas "Co-Authored-By" do histórico de commits.
