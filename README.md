@@ -30,7 +30,10 @@ Depois abre uma **sessão nova** no separador Code da app Claude para desktop.
 
 ```bash
 claude plugin marketplace update lg-systems-mods
+claude plugin update usage-bars@lg-systems-mods
 ```
+
+O primeiro comando só atualiza o catálogo; o segundo instala a versão nova do plugin. Depois abre uma **sessão nova**.
 
 ## Desinstalar
 
